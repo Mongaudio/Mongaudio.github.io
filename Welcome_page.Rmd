@@ -1,0 +1,89 @@
+---
+title: "Mongaudio_welcome_page"
+output: html_document
+date: "2023-12-26"
+---
+
+
+<!-- mongaudio_welcome_page.html --> 
+
+<script src="https://github.com/Mongaudio/mongaudio_welcome_page.js"></script><noscript>
+#<script src= "file:///C:/Users/Amedeo/Documents/Webpage-mongaudio/Mongaudio welcome page.html"></script><noscript>
+
+#Benvenuti al Mongaudio
+
+Benvenuti alla nostra pagina! 
+
+Qui potrete ottenere più informazioni sulla storia della nostra azienda e scoprire da dove vengono i prodotti che vendiamo. 
+
+#Come trovarci
+
+L'azienda agricola si trova avvolta dalle Colline del Monferrato recentemente riconosciute quanto partimonio culturale dall' Unesco.
+Il nostro allevamento si trova qui dal 1998 ed è facilmente raggiungibile tramite bicicletta dai paesi limitrofi di Camagna Monferrato o Conzano.
+
+
+*aggiungere informazioni stradali per chi viene in auto*
+
+Alternativamente, cliccate sul seguente link per aggiungere Cascina Mongaudio al vostro navigatore.
+
+[Cascina Mongadio] (https://www.google.it/maps/place/Cascina+Mongaudio/@45.0159555,8.4484018,17z/data=!3m1!4b1!4m6!3m5!1s0x4787a257e8ebaed1:0x303b2f731b2e62cc!8m2!3d45.0159555!4d8.4484018!16s%2Fg%2F1ptvt8847?entry=ttu)
+
+## Come mettersi in contatto
+
+Se siete interessati a contattarci per qualsiasi dubbio o domanda qua sotto trovate i nostri contatti.
+
+
+![Logo whatsapp](Images/whatsapp-icon.jpg)
+Numero telefono: 3534539436 
+
+
+#inserisci qui immagine email
+email:[rotapigfarmer@gmail.com](rotapigfarmer@gmail.com)
+
+# Puoi anche trovarci sulle seguenti piattaforme
+
+![Logo instagram](Images/instagram-png)
+Account:[Salumi_mongaudio](https://www.instagram.com/salumi_mongaudio/?igsh=OGQ5ZDc2ODk2ZA%3D%3D)
+
+
+![Logo facebook](Images/Facebook_icon.png)
+
+
+
+
+  
+### header three
+  
+#### header four
+  
+##### header five
+
+*this will be italic*
+
+**this will be bold**
+
+~~this will be strike through~~
+
+__this will be underlined__
+
+
+## Lists
+### Unordered
+* item one
+* item two
+    * item a
+    * item b
+
+### Ordered
+1. Item 1
+1. Item 2
+1. Item 3
+  1. item 3a
+  
+# links
+
+[md-page Github repo](https://github.com/oscarmorrison/md-page) *give us a :star:*
+
+[demo page](https://oscarmorrison.com/md-page/)
+  
+Thanks for stopping by!
